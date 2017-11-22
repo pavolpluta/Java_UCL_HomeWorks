@@ -91,6 +91,7 @@ public class MeetingController {
                         case 3:
                             deleteMeetingCentre(code);
                             listAllMeetingCentres();
+                            return;
                         case 4:
                             listAllMeetingCentres();
                         case 5:
