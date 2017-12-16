@@ -1,0 +1,6 @@
+
+- !! V IDE aj v pom.xml musi byt nastavena java 8, inak aplikacia nebude (spravne) fungovat. Aplikaciu som robil
+	v IntelliJ, odporucam ju v tom istom IDE spustit, aby nahodou nevznikla neocakavana chyba !! 
+
+- Pri zobrazovani rezervacii som nenastavoval podla actual date, ale zmenil som to na staticky datum
+	pre lepsie zobrazenie funkcionality aplikacie (hocikedy sa to da samozrejme prenastavit zpet na 'actualDate')

@@ -1,0 +1,13 @@
+MainController:
+	- case 4: vo funkcii 'FileParser.saveData(xxx)' miesto funkcie 'toSaveString' volam funkciu 'getMeetingCentres' 
+	(nevedel som, ako mam pristupit k ulozeniu celeho importovaneho suboru cez funkciu 'toSaveString', 
+	ktora vracia String (predstavte si cely .csv subor prerobit cez StringBuilder do jedneho riadku...).
+	Mozno som len spravne neporozumel zadaniu, no funkcionalita aplikacie je rovnaka.
+
+MeetingController:
+- Pridana nova metoda 'inputChecker'
+- Pridana nova metoda 'addMeetingRoom'
+- Pridana nova metoda 'editMeetingRoom'
+ 
+FileParser:
+- Vytvorena metoda 'loadData', aby som neduplikoval kod vo funkciach 'loadDataFromFile' a 'importData'

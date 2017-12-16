@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<meetingCenters>
+  <meetingCenter>
+    <name>EBC Classic 7</name>
+    <code>EBC-MC_C7</code>
+    <description>Executive Briefing Centre - Classic 7 Praha Holešovice - Jankovcova</description>
+    <meetingRooms>
+      <meetingRoom>
+        <name>1.1 Alpha</name>
+        <code>EBC-C7-MR:1_1</code>
+        <description>Standardní zasedací místnost</description>
+        <capacity>8</capacity>
+        <hasVideoConference>No</hasVideoConference>
+        <centreCode>EBC-MC_C7</centreCode>
+        <reservations>
+          <reservation>
+            <customer>Uni</customer>
+            <date>14.12.2017</date>
+            <from>04:15</from>
+            <to>06:20</to>
+            <expectedPersonCount>8</expectedPersonCount>
+            <videoConference>No</videoConference>
+            <note/>
+            <roomReservationCode>EBC-C7-MR:1_1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Eset</customer>
+            <date>14.12.2017</date>
+            <from>07:00</from>
+            <to>08:30</to>
+            <expectedPersonCount>8</expectedPersonCount>
+            <videoConference>No</videoConference>
+            <note/>
+            <roomReservationCode>EBC-C7-MR:1_1</roomReservationCode>
+          </reservation>
+        </reservations>
+      </meetingRoom>
+      <meetingRoom>
+        <name>1.2 Beta</name>
+        <code>EBC-C7-MR:1_2</code>
+        <description>Standardní zasedací místnost</description>
+        <capacity>8</capacity>
+        <hasVideoConference>No</hasVideoConference>
+        <centreCode>EBC-MC_C7</centreCode>
+        <reservations/>
+      </meetingRoom>
+      <meetingRoom>
+        <name>1.3 Connect</name>
+        <code>EBC-C7-MR:1_3</code>
+        <description>Standardní zasedací místnost s video konferencí</description>
+        <capacity>12</capacity>
+        <hasVideoConference>Yes</hasVideoConference>
+        <centreCode>EBC-MC_C7</centreCode>
+        <reservations/>
+      </meetingRoom>
+      <meetingRoom>
+        <name>2.4 Delta</name>
+        <code>EBC-C7-MR:2_4</code>
+        <description>Velká zasedací místnost s video konferencí</description>
+        <capacity>30</capacity>
+        <hasVideoConference>Yes</hasVideoConference>
+        <centreCode>EBC-MC_C7</centreCode>
+        <reservations/>
+      </meetingRoom>
+      <meetingRoom>
+        <name>2.5 Epsilon</name>
+        <code>EBC-C7-MR:2_5</code>
+        <description>Velká školírna s velkou tabulí a projekcí</description>
+        <capacity>50</capacity>
+        <hasVideoConference>Yes</hasVideoConference>
+        <centreCode>EBC-MC_C7</centreCode>
+        <reservations/>
+      </meetingRoom>
+    </meetingRooms>
+  </meetingCenter>
+  <meetingCenter>
+    <name>EBC Parukářka</name>
+    <code>EBC-MC_PAR</code>
+    <description>Executive Briefing Centre - Parukářka Praha Žižkov - V Kapslovně</description>
+    <meetingRooms>
+      <meetingRoom>
+        <name>0.1 Edison</name>
+        <code>EBC-PAR-MR:0_1</code>
+        <description>Učebna </description>
+        <capacity>30</capacity>
+        <hasVideoConference>No</hasVideoConference>
+        <centreCode>EBC-MC_PAR</centreCode>
+        <reservations/>
+      </meetingRoom>
+      <meetingRoom>
+        <name>1.1 Einstein</name>
+        <code>EBC-PAR-MR:1_1</code>
+        <description>Velká učebna</description>
+        <capacity>50</capacity>
+        <hasVideoConference>No</hasVideoConference>
+        <centreCode>EBC-MC_PAR</centreCode>
+        <reservations/>
+      </meetingRoom>
+      <meetingRoom>
+        <name>1.2 Tesla</name>
+        <code>EBC-PAR-MR:1_2</code>
+        <description>Menší učebna</description>
+        <capacity>12</capacity>
+        <hasVideoConference>No</hasVideoConference>
+        <centreCode>EBC-MC_PAR</centreCode>
+        <reservations/>
+      </meetingRoom>
+    </meetingRooms>
+  </meetingCenter>
+  <meetingCenter>
+    <name>EBC Brno</name>
+    <code>EBC-MC_BRNO</code>
+    <description>Executive Briefing Centre - Brno</description>
+    <meetingRooms/>
+  </meetingCenter>
+  <meetingCenter>
+    <name>EBC Presov</name>
+    <code>EBC-MC_PRE</code>
+    <description>Presovsky EBC</description>
+    <meetingRooms>
+      <meetingRoom>
+        <name>1.1 PO</name>
+        <code>EBC-PRE-MR:1.1</code>
+        <description>Big room</description>
+        <capacity>15</capacity>
+        <hasVideoConference>Yes</hasVideoConference>
+        <centreCode>EBC-MC_PRE</centreCode>
+        <reservations>
+          <reservation>
+            <customer>Gustav</customer>
+            <date>10.12.2014</date>
+            <from>00:30</from>
+            <to>01:30</to>
+            <expectedPersonCount>12</expectedPersonCount>
+            <videoConference>Yes</videoConference>
+            <note/>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Eset</customer>
+            <date>10.12.2014</date>
+            <from>02:30</from>
+            <to>03:30</to>
+            <expectedPersonCount>14</expectedPersonCount>
+            <videoConference>No</videoConference>
+            <note/>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Avast</customer>
+            <date>10.12.2014</date>
+            <from>07:30</from>
+            <to>09:30</to>
+            <expectedPersonCount>15</expectedPersonCount>
+            <videoConference>Yes</videoConference>
+            <note>desc</note>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Adrian</customer>
+            <date>14.12.2017</date>
+            <from>07:00</from>
+            <to>08:00</to>
+            <expectedPersonCount>14</expectedPersonCount>
+            <videoConference>No</videoConference>
+            <note/>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Osto</customer>
+            <date>14.12.2017</date>
+            <from>10:45</from>
+            <to>11:45</to>
+            <expectedPersonCount>4</expectedPersonCount>
+            <videoConference>Yes</videoConference>
+            <note/>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Unicorn</customer>
+            <date>14.12.2017</date>
+            <from>12:00</from>
+            <to>13:30</to>
+            <expectedPersonCount>15</expectedPersonCount>
+            <videoConference>Yes</videoConference>
+            <note/>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Billa</customer>
+            <date>14.12.2017</date>
+            <from>14:00</from>
+            <to>16:00</to>
+            <expectedPersonCount>12</expectedPersonCount>
+            <videoConference>No</videoConference>
+            <note>ahoj</note>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+          <reservation>
+            <customer>Kauf</customer>
+            <date>14.12.2017</date>
+            <from>18:00</from>
+            <to>19:30</to>
+            <expectedPersonCount>2</expectedPersonCount>
+            <videoConference>Yes</videoConference>
+            <note>nope</note>
+            <roomReservationCode>EBC-PRE-MR:1.1</roomReservationCode>
+          </reservation>
+        </reservations>
+      </meetingRoom>
+    </meetingRooms>
+  </meetingCenter>
+</meetingCenters>

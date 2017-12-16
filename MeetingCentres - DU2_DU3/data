@@ -1,0 +1,86 @@
+{
+  "data" : [ {
+    "meetingCentre" : "EBC-MC_C7",
+    "meetingRoom" : "EBC-C7-MR:1_1",
+    "reservations" : {
+      "14.12.2017" : [ {
+        "note" : "",
+        "from" : "04:15",
+        "to" : "06:20",
+        "expectedPersonsCount" : 8,
+        "videoConference" : false,
+        "customer" : "Uni"
+      }, {
+        "note" : "",
+        "from" : "07:00",
+        "to" : "08:30",
+        "expectedPersonsCount" : 8,
+        "videoConference" : false,
+        "customer" : "Eset"
+      } ]
+    }
+  }, {
+    "meetingCentre" : "EBC-MC_PRE",
+    "meetingRoom" : "EBC-PRE-MR:1.1",
+    "reservations" : {
+      "10.12.2014" : [ {
+        "note" : "",
+        "from" : "00:30",
+        "to" : "01:30",
+        "expectedPersonsCount" : 12,
+        "videoConference" : true,
+        "customer" : "Gustav"
+      }, {
+        "note" : "",
+        "from" : "02:30",
+        "to" : "03:30",
+        "expectedPersonsCount" : 14,
+        "videoConference" : false,
+        "customer" : "Eset"
+      }, {
+        "note" : "desc",
+        "from" : "07:30",
+        "to" : "09:30",
+        "expectedPersonsCount" : 15,
+        "videoConference" : true,
+        "customer" : "Avast"
+      } ],
+      "14.12.2017" : [ {
+        "note" : "",
+        "from" : "07:00",
+        "to" : "08:00",
+        "expectedPersonsCount" : 14,
+        "videoConference" : false,
+        "customer" : "Adrian"
+      }, {
+        "note" : "",
+        "from" : "10:45",
+        "to" : "11:45",
+        "expectedPersonsCount" : 4,
+        "videoConference" : true,
+        "customer" : "Osto"
+      }, {
+        "note" : "",
+        "from" : "12:00",
+        "to" : "13:30",
+        "expectedPersonsCount" : 15,
+        "videoConference" : true,
+        "customer" : "Unicorn"
+      }, {
+        "note" : "ahoj",
+        "from" : "14:00",
+        "to" : "16:00",
+        "expectedPersonsCount" : 12,
+        "videoConference" : false,
+        "customer" : "Billa"
+      }, {
+        "note" : "nope",
+        "from" : "18:00",
+        "to" : "19:30",
+        "expectedPersonsCount" : 2,
+        "videoConference" : true,
+        "customer" : "Kauf"
+      } ]
+    }
+  } ]
+}
